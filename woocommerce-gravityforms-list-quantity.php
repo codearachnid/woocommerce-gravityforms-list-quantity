@@ -5,7 +5,7 @@ Description: Remove the ability to change Quantity from the cart page and hook c
 Version: 0.2
 Author: Timothy Wood @codearachnid
 Author URI: http://www.codearachnid.com
-GitHub Theme URI: codearachnid/woocommerce-gravityforms-list-quantity
+GitHub Plugin URI: codearachnid/woocommerce-gravityforms-list-quantity
 GitHub Branch:    master
 License: GPL V.3
 
